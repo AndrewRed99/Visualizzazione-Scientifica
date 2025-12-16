@@ -2,10 +2,17 @@
 
 ## Descrizione del progetto
 
-Questo progetto si concentra sulla visualizzazione scientifica di dati astronomici, con l’obiettivo di esplorare variabilità, correlazioni e strutture presenti in dataset ad alta dimensionalità.
-Attraverso diverse tecniche di visualizzazione, il lavoro mira a trasformare dati osservativi complessi in informazioni interpretabili.
+Questo progetto si concentra sullo studio del rapporto tra le emissioni elettromagnetiche nello spettro visibile e nello spettro X di corpi celesti, utilizzando tecniche di visualizzazione scientifica applicate a dati astronomici. In particolare, l’analisi riguarda la relazione tra luminosità visibile e luminosità X, due grandezze fondamentali per comprendere i processi fisici che regolano l’emissione delle sorgenti astronomiche.
 
-Il progetto è stato sviluppato nell’ambito del corso Visualizzazione Scientifica (A.A. 2025/2026).
+I dati osservativi in astronomia sono spesso caratterizzati da un’elevata complessità, con valori distribuiti su ampi intervalli e numerose variabili coinvolte. Per questo motivo, la visualizzazione scientifica rappresenta uno strumento chiave per esplorare i dataset e mettere in evidenza correlazioni, strutture di densità, pattern e possibili anomalie che non emergono immediatamente da un’analisi numerica.
+
+Nel corso del progetto sono state adottate diverse tecniche di visualizzazione, tra cui scatter plot in scala logaritmica, mappe di densità e analisi delle distribuzioni monovariate, con l’obiettivo di valutare l’efficacia di ciascun approccio nell’interpretare i dati. È stato inoltre sperimentato un metodo di clustering basato sulla densità (DBSCAN) per verificare la presenza di raggruppamenti significativi tra le osservazioni.
+
+Il progetto è stato sviluppato nell’ambito del corso Visualizzazione Scientifica (A.A. 2025/2026) e mira a mostrare come un uso consapevole delle tecniche di visualizzazione possa supportare l’analisi e l’interpretazione di fenomeni astronomici complessi.
+
+
+Le slide della presentazione finale sono disponibili qui:  
+[Visualizza la presentazione](https://www.canva.com/design/DAG6fLkFpy0/INrlAEsH5qZ0NVXHWp1zSA/view?utm_content=DAG6fLkFpy0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f700ca13d)
 
 ---
 
